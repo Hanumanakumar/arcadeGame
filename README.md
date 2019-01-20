@@ -10,9 +10,9 @@ The goal of the game is to make the player to go to the water area without touch
 2. After I run the project, It shows an empty page in browser. I found few errors from google developer console. For resolving those error I implemented an array named *allEnemies[]*, *Player* class and also created an object from *Player* class.
 
 3. Implemented the below functions for Player.
-  + render()
-  + update() and
-  + handleInput().
+  + *render()
+  + *update()* and
+  + *handleInput().
 
 4. render() is for placing a player sprite on the canvas. and update() is for updating the player position. This function already implemented by using a dt parameter.
 
