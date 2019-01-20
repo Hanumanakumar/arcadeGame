@@ -1,5 +1,4 @@
 # arcadeGame
-__________________
 The goal of the game is to make the player to go to the water area without touching the enemies. And do an activity after the player reached the water area successfully.   
 
 ## For completing my Arcade Game project,
@@ -35,4 +34,4 @@ The goal of the game is to make the player to go to the water area without touch
 
 10. Added meta tag for representing this in various resolutions.
 
-11. Added little bit styles after the score become 5.
+11. If the player wins, I show the increment the score by 1. And also added little bit styles after the score become 5.
