@@ -1,0 +1,27 @@
+  body {
+      text-align: center;
+  }
+
+  /* Score board */
+  .scoreBoard {
+    font-family: monospace;
+    font-size: 20px;
+    margin: 1%;
+  }
+
+  /* Score */
+  #score {
+    color: #4a68cf;
+    font-weight: 500;
+  }
+
+  /* High Score */
+  #high {
+    color: #17870e;
+    font-weight: 500;
+  }
+
+  .black {
+    background: #000;
+    color: #fff;
+  }
